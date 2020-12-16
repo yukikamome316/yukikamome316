@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://shields.io/">
-  <img align="left" src="https://img.shields.io/badge/motivation-full-brightgreen"/>
+  <img align="left" src="https://img.shields.io/badge/motivation-full-brightgreen" />
   <br>
   <br>
 </a>
