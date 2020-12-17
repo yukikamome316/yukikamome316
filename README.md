@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://yukikamome316-homepage.localinfo.jp">
+<a href="https://github.com/yukikamome316">
   <img align="left" src="https://img.shields.io/badge/motivation-full-blue" />
   <br>
   <br>
