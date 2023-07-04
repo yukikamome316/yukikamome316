@@ -1,4 +1,3 @@
-# Yukikamome316's Profile
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <a href="https://github.com/yukikamome316">
 <br>
